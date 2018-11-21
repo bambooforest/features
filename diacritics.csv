@@ -1,0 +1,47 @@
+example	diacritic	ton	strs	syl	shrt	long	cons	son	cont	delr	appr	tap	trr	nas	lat	lab	rnd	labd	cor	ant	dist	strid	dors	hi	lo	fr	bk	tns	rtr	atr	voi	epi	sg	cg	fort	rlx	llx	clk	applies_to	creates	feature_changes	notes
+a̩	̩			+																																			a consonant	syllabic	+syllabic	
+a̰	̰																																-	+					voiced sounds	creaky voice	-spread glottis, +constricted glottis	
+a̤	̤																																+	-					voiced sounds	breathy voice	+spread glottis, -constricted glottis	
+ḁ	̥																														-		+	-					voiced sounds	voiceless	- voice	
+a̠	̠																			-	+																		alveolar	palato-alveolar	-anterior, +distributed	
+a̪	̪																			+	+																		alveolar	dental	+anterior, +distributed	
+a̟	̟																									+	-												velar	fronted velar	+front, -back	
+a̠	̠																									-	+												velar	backed velar	-front, +back	
+aˈ	ˈ		+																																				before a syllable	stressed	+stress	
+aː	ː				-	+																																	any segment	long	+long	
+aʰ	ʰ																																+	-					a consonant	aspirated	+spread glottis, -constricted glottis	
+aʲ	ʲ																						+	+	-	+	-												a consonant	palatalized	+dorsal, +high, -low, +front, -back	
+aʷ	ʷ															+	+																						a consonant	labialized	+labial, +round	
+aˠ	ˠ																						+	+	-	-	+												a consonant	velarized	+dorsal, +high, -low, -front, +back	
+aˤ	ˤ																												+	-									a consonant	pharyngealized	+dorsal, -high, +low, -front, +back	
+aˀ	ˀ																																-	+								
+aᴴ	ᴴ																															+										
+ã	̃													+																									a consonant	nasalized	+nasal	
+a˞	˞																		+	+	+	+																	a vowel	rhotic	+coronal, +anterior, +distributed, -strident	
+aʼ	ʼ																																-	+		+			an obstruent	ejective	-spread glottis, +constricted glottis	
+aˑ	ˑ				+	+																																			+short, +long	
+aʱ	ʱ																																+	-					breathy marker (legal for stops)			breathy marker; legal for stops
+aˡ	ˡ														-,+																								lateral release			should treat these as complex segments?
+aⁿ	ⁿ													-,+																									nasal release			should treat these as complex segments?
+aᶣ	ᶣ															+	+						+	+	-	+	-												j +round			
+ä	̈																						+	-	-	-	-	-											centralized	ö	vowel-dependent	only allophonically?
+a̘	̘																												-	+									advanced tongue root	o̘		
+a̙	̙																												+	-									retracted tongue root	o̙		
+a̝	̝																																						raised	o̝	vowel-dependent	
+a̞	̞																																						lowered	o̞	vowel-dependent	
+a̯	̯			-																																			non-syllabic	o̯		only allophonically?
+a̹	̹																																						more rounded	o̹		only allophonically?
+a̜	̜																																						less rounded	o̜		only allophonically?
+a̺	̺																				-																		apical	o̺		
+a̻	̻																				+																		laminal	o̻		
+a͈	͈																																		+				used in SPA to represent "tense" consonants	o͈		used in SPA to represent "tense" consonants
+a͉	͉																																		-				used in SPA to represent "lax" consonants	o͉		used in SPA to represent "tense" consonants
+a͓	͓						+	-		+	-																												fricated	o͓		non-strident fricatives created from approximants
+*	*																																						underspecified or archiphoneme maker			
+a̧	̧								+	+																													unicode decomposition	o̧		computationally determined
+ă	̆				+	-																																	combining brev	ŏ		
+a͇	͇																					-																	[-strident] (should only apply to [+coronal] sounds)			non-sibilant marker on obstruents in UPSID
+å	̊																														-		+	-								voiceless (use if character has descender)
+a̚	̚																																									not audibly released; presently only in allophones
+a̬	̬																																									voiced
+i̴	̴																																									velarized or pharyngealized
